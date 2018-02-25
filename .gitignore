@@ -1,0 +1,14 @@
+*~
+.vagrant
+.bash_history
+*.db
+*.pip
+*.cache
+*.pyc
+venv/
+build/
+dist/
+htmlcov/
+.coverage
+*egg-info/
+*junit.xml
